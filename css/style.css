@@ -971,7 +971,7 @@ img {
 
   .tour__pic_mob-first {
     -ms-grid-row: -1;
-        grid-row-start: -1;
+    grid-row: -1;
   }
 
   .tours__tour {
